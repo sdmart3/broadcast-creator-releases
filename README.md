@@ -25,5 +25,12 @@ Mod Manager. No code or file editing.
 
 ## Beta
 
-This is a beta. Pages marked **experimental** work but are less tested in the game. If something looks wrong or
+This is a beta. Pages marked **experimental** work but may still change. If something looks wrong or
 confusing, open an issue here or say so in the Discord.
+
+## Latest: beta 2
+
+Update to beta 1: fixes for a custom score bug that would not build after a part was removed and for fonts with no
+lowercase letters, plus per-box text colour, words around a value, hide a record at 0 - 0, a bug area control, drag to
+reorder, and replace / remove pictures in the layout editor. Keep your `packages` folder when you move to the new
+folder. `CHANGELOG.md` in the zip lists everything.
